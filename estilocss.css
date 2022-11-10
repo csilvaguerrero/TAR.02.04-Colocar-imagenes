@@ -1,0 +1,41 @@
+img{
+	 
+	 width: 300px;
+	 height: 200px;
+	 position: absolute;
+ }
+ 
+
+img#montes{
+ 
+	top: 450px;
+	left: 700px;
+	/* z-index: 1; */
+}
+
+img#opel{
+ 
+	top: 450px;
+	left: 280px;
+}
+
+img#perl{
+ 
+	top: 170px;
+	left: 700px;
+ 
+}
+
+img#perro{
+ 
+	top: 170px;
+	left: 280px;
+	/* z-index: 1; */
+}
+
+img#python{
+ 
+	left: 500px;
+	top: 300px;
+ 
+}
